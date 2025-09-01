@@ -40,6 +40,7 @@ A fully functional real-time chat app with:
 - 🧑‍🤝‍🧑 private chats
 - 🗂 MongoDB for chat/message persistence
 - 🖥️ Built using **React**, **Node.js**, **Socket.IO**, and **MongoDB**
+- 📥 [VibeTalk Project](file:///C:/VibeTalk)
 🔗 [GitHub Repo](https://github.com/KopperlaViswanathReddy/VibeTalk-Real-Time-Chat-Application/tree/master)
 🔴 [Live Demo](https://drive.google.com/drive/folders/1OUjvpVC_mWbTnCu6dvuFwfzOT_Dw3GrO?dmr=1&ec=wgc-drive-hero-goto)
 
