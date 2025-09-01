@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Kopperla Viswanath Reddy
 
 🎓 3rd Year B.Tech CSE Student @ SASTRA University  
-💻 Full-Stack Developer | FAANG Aspirant  
-🌱 Currently building a Placement Prep App for SASTRA  
-🚀 Passionate about DSA, System Design, and Java Development
+💻 Full-Stack Development   
+🚀 Passionate about DSA, System Design, Java Development, Artificial Intelligence, and Machine Learning
 
 ---
 
@@ -38,7 +37,7 @@
 A fully functional real-time chat app with:
 - 🔐 JWT Authentication
 - 🌐 Socket.IO/WebSockets for real-time messaging
-- 🧑‍🤝‍🧑 Group & private chats
+- 🧑‍🤝‍🧑 private chats
 - 🗂 MongoDB for chat/message persistence
 - 🖥️ Built using **React**, **Node.js**, **Socket.IO**, and **MongoDB**
 🔗 [GitHub Repo](https://github.com/KopperlaViswanathReddy/VibeTalk-Real-Time-Chat-Application)
@@ -49,9 +48,8 @@ A fully functional real-time chat app with:
 ---
 
 ## 🎯 Goals
-
-- ✅ Complete GFG 450 DSA by October 2025    
-- 💼 Get placed in a top product-based company (FAANG / Adobe / Goldman Sachs)
+   
+- 💼 Get placed in a Good Company
 
 ---
 
@@ -62,5 +60,6 @@ A fully functional real-time chat app with:
 
 ---
 
-> _“Consistency is more important than intensity.” – A key to mastering DSA and System Design_
+> _“Consistency is more important than intensity.”
+> _"Character is Important."
 
